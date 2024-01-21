@@ -4,7 +4,7 @@ Numpy where funtion with multiple condition : https://pythoncodelab.com/numpy-wh
 
 Python list comprehension : https://pythoncodelab.com/python-list-comprehension/
 
-Pandas iloc vs loc : https://pythoncodelab.com/python-iloc-vs-loc
+Pandas iloc vs loc : https://pythoncodelab.com/pandas-iloc-vs-loc
 
 
 
